@@ -1,0 +1,197 @@
+# Awesome Economics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+*A curated collection of links for economists*
+
+
+## Studying
+
+### Courses
+
+* [MIT OCW Economics](http://ocw.mit.edu/courses/economics/) - Over 100 courses covering all major fields of econocmics. Courses include prerequisites, recommended textbooks, lecture slides, and assignments. Undergraduate and graduate programs.
+* [edX Economics](https://www.edx.org/course/subject/economics-finance) - Introductory topics, few prerequisites.
+* [Khan Academy: Economics](https://www.khanacademy.org/economics-finance-domain) - Elementary topics.
+
+### Useful Materials
+
+* [Foundational Equations of Economics](http://economics.stackexchange.com/questions/35/what-are-the-foundational-equations-of-economics) - These equations show principles behind "thinking like an economist". Graduate textbooks put these equiations in context.
+
+
+## Research
+
+### Portals
+
+* [RePEc](http://repec.org/) - Web services for economic researchers: bibliography, blog aggregator, new working papers, software.
+* [Federal Reserve Bank of St. Louis: Web Services](https://research.stlouisfed.org/resources.html) - A list of helpful services.
+
+### Articles and Working Papers
+
+* [IDEAS RePEc](https://ideas.repec.org/) - The largest database of economics publications (2,000,000 items). Searching through papers is easier with Google: `site:ideas.repec.org <search term>`. Index sources mentioned below.
+* [NBER](http://nber.org/papers.html) - Working papers by major researchers. Many of these papers get published in peer-reviewed journal.
+* [SSRN Economics](http://ssrn.com/en/index.cfm/ern/) - Working papers, no journal publications.
+
+### Data
+
+Datasets
+
+* [FRED2](https://research.stlouisfed.org/fred2/) - 380,000 (macro) time series from 80 sources. Supports plugins for importing data into Excel, Stata, R, and others. Has a mobile app.
+* [World Bank Data](http://data.worldbank.org/) - International macro time series. Has data import plugins.
+* [Quandl](https://www.quandl.com/) - Aggregate financial and economic data from multiple sources. Some data vendors sell their data via this service. Good integration with statistical software.
+
+Search
+
+* [International Open Government Dataset Search](https://logd.tw.rpi.edu//node/9903) - Over 1,000,000 government datasets. When works, this service looks [like this](http://web.archive.org/web/20140815054106/http://logd.tw.rpi.edu/node/9903). Otherwise, you'll see a 403 error.
+* [Dataset Search Engine](https://cse.google.com/cse/publicurl?cx=002720237717066476899:v2wv26idk7m) - Google-based search over 200 data sources, including those mentioned here. You can use Google [search operators](http://www.googleguide.com/advanced_operators_reference.html) here.
+* [StackExchange Open Data](http://opendata.stackexchange.com/) - If you haven't found the data you were looking for, you can ask it here.
+* [Reddit /r/datasets](https://www.reddit.com/r/datasets) - One more place to request datasets.
+
+### Software
+
+Writing
+
+* [LaTeX](https://www.latex-project.org/) - Economists write in LaTeX because it handles mathematics and references better than Word or LibreOffice. If you write regularly, LaTeX is worth learning.
+  - [Beamer](https://www.ctan.org/pkg/beamer?lang=en) - A LaTeX class for presentations.
+  - [TikZ](http://www.texample.net/tikz/examples/) - An extension for drawing graphs. A [how-to](http://cremeronline.com/LaTeX/minimaltikz.pdf) and a [manual](http://www.texample.net/media/pgf/builds/pgfmanualCVS2012-11-04.pdf).
+* [LyX](http://www.lyx.org/) - A free and simple editor for LaTeX.
+* [Zotero](https://www.zotero.org/) - Bibliography management. Also install (a) Zotero browser plugin to import papers from RePEc to your library; (b) Zotero-LyX plugin to cite literature easily.
+* [Git](https://git-scm.com/downloads) - A version control system. Useful if you want to revert changes done months ago or collaborate with other authors. DropBox also has version control, but Git is more explicit. A [short intro](http://rogerdudler.github.io/git-guide/).
+
+Computing
+
+* [Stata](http://www.stata.com/) - An industry standard for statistical computations in economics. Free alternatives:
+  - [IPython](http://ipython.org/) - A Python-based environment. Econometric analysis requires SciPy, NumPy, statsmodels, and some other libraries installed. Consider installing [Anaconda](https://www.continuum.io/downloads), which contains much of the needed stuff.
+  - [RStudio](https://www.rstudio.com/) - A R-based environment. Many statistical R libraries are not available in other languages, so it's a pretty rich platform.
+* [Matlab](http://www.mathworks.com/products/matlab/) - An industry standard for modeling and numerical optimization in economics. Free alternatives:
+  - [Octave](https://www.gnu.org/software/octave/)
+* [Mathematica](https://www.wolfram.com/mathematica/) - Symbolic computations. Free alternative
+  - [Sage](http://www.sagemath.org/)
+
+Sharing
+
+* [GitHub](https://github.com/) - A repository for code and data. Publishing research here is not a common practice, but it's more convenient that alternatives (university home page, DropBox, etc.).
+  - [GitHub Pages](https://pages.github.com/) - Simple static websites.
+  - [GitHub LFS](https://git-lfs.github.com/) - Large file storage.
+* [IPython Notebooks](http://ipython.org/) - An interactive alternative to LaTeX and Word. See examples how notebooks look like in [data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) and [the gallery](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks).
+
+Reviews
+
+* [Most common programs used by Economists](http://economics.stackexchange.com/questions/5853/most-common-programs-used-by-economists) - A community-managed list of common software.
+* [Software for Researchers: New Data and Applications](https://antontarasenko.com/2016/01/14/software-for-research/) - Covers software mentioned above and some more.
+
+### Useful Materials
+
+* [How to efficiently manage a statistical analysis project?](http://stats.stackexchange.com/questions/2910/how-to-efficiently-manage-a-statistical-analysis-project)
+* RePEc Rankings by citations
+  - [Top Authors](https://ideas.repec.org/top/top.person.all.html)
+  - [Economic Institutions](https://ideas.repec.org/top/top.inst.nbcites.html)
+  - [Research Items](https://ideas.repec.org/top/top.item.nbcites.html)
+  - [Software Items](http://logec.repec.org/scripts/itemstat.pf?type=redif-software)
+
+
+## Discussions
+
+* Blogs - The most popular form of self-expression among economists. The major blog aggregators:
+  - [EconAcademics.org](http://econacademics.org/)
+  - [Economist's View](http://economistsview.typepad.com/) - Mark Thoma
+  - [Grasping Reality](http://delong.typepad.com/) - Brad DeLong
+  - [Marginal Revolution](http://marginalrevolution.com/) - Tyler Cowen and Alex Tabarrok
+  - [VOX CEPR](http://www.voxeu.org/) - Members of CEPR
+* [Economics Blog Search](https://cse.google.com/cse/publicurl?cx=002720237717066476899:i_zfef5fawa) - A Google-based search service for aforementioned blogs.
+* [StackExchange Economics](http://economics.stackexchange.com/) - A Q&A website where you can ask and answer questions.
+* Reddit - A popular news aggregator. Has many economics-related sections, for example:
+  - [/r/GoodEconomics/](https://www.reddit.com/r/GoodEconomics/) - Selected pieces on economic issues.
+  - [/r/EconPapers/](https://www.reddit.com/r/EconPapers/) - Discussing economic papers.
+
+
+## Career
+
+### Undergraduate
+
+* University rankings - May help in choosing a college.
+  - [QS World University Rankings by Subject 2016 - Economics & Econometrics](http://www.topuniversities.com/university-rankings/university-subject-rankings/2016/economics-econometrics#sorting=rank+region=+country=+faculty=+stars=false+search=)
+  - [Academic Ranking of World Universities in Economics / Business](http://www.shanghairanking.com/SubjectEcoBus2015.html)
+
+### Graduate
+
+* [American Economic Association: Graduate Training in Economics](https://www.aeaweb.org/gradstudents/index.php) - Overview of the programs, requirements, and advices to those considering a PhD program in economics.
+
+### Faculty
+
+* [Econ Jobs Postings](https://econjobmarket.org/postings.php) - List of academic job openings.
+* [Economics Job Market Rumors](http://www.econjobrumors.com/wiki.php) - List of job openings for economists. Informal.
+
+
+## Economics on GitHub
+
+Please, add yourself and your economics-related projects.
+
+### Economists
+
+* [clange](https://github.com/clange)
+* [davidrpugh](https://github.com/davidrpugh)
+* [ericpgreen](https://github.com/ericpgreen)
+* [hmgaudecker](https://github.com/hmgaudecker)
+* [jesusfv](https://github.com/jesusfv)
+* [jstac](https://github.com/jstac)
+* [nathanlane](https://github.com/nathanlane)
+* [robertdkirkby](https://github.com/robertdkirkby)
+* [trickvi](https://github.com/trickvi)
+
+### Projects
+
+* [economics-book](https://github.com/philschatz/economics-book) - Economics Textbook (Openstax)
+* [pyeconomics](https://github.com/davidrpugh/pyeconomics) - Computational economics in Python
+* [QuantEcon](https://github.com/QuantEcon/) - A library for quantitative economics
+* [quantecon_nyu_2016](https://github.com/jstac/quantecon_nyu_2016) - Topics in Computational Economics
+* [zice-2014](https://github.com/davidrpugh/zice-2014) - Course materials for Zurich Initiative for Computational Economics (ZICE) 2014
+
+
+## Literature by Field
+
+You can also find recommended textbooks for each field on [MIT OCW Economics](http://ocw.mit.edu/courses/economics/) (section "Syllabus").
+
+### Mathematical methods
+
+* Simon and Blume, *Mathematics for Economists*
+* Stokey, Lucas, and Prescott, *Recursive Methods in Economic Dynamics*
+* Chiang and Wainwright, *Fundamental Methods of Mathematical Economics*
+
+### Microeconomics
+
+* Mas-Colell, Whinston, and Green, *Microeconomic Theory*
+* Varian, *Microeconomic Analysis*
+
+### Game theory
+
+* Fudenberg and Tirole, *Game Theory*
+* Myerson, *Game Theory*
+* Osborne and Rubinstein, *A Course in Game Theory*
+
+### Macroeconomics
+
+* Acemoglu, *Introduction to Modern Economic Growth*
+* Ljungqvist and Sargent, *Recursive Macroeconomic Theory*
+* Obstfeld and Rogoff, *Foundations of International Macroeconomics*
+* Dornbusch and Fischer, *Macroeconomics*
+* Woodford, *Interest and Prices*
+* Walsh, *Monetary Theory and Policy*
+* Galí, *Monetary Policy, Inflation, and the Business Cycle*
+
+### Econometrics
+
+* Angrist and Pischke, *Mostly Harmless Econometrics*
+* Wooldridge, *Econometric Analysis of Cross Section and Panel Data*
+* Greene, *Econometric Analysis*
+* Hamilton, *Time Series Analysis*
+* Cameron and Trivedi, *Microeconometrics*
+
+### Popular Literature
+
+* Kahneman, *Thinking, Fast and Slow*
+* Dubner and Lewitt, *Freakonomics*
+* Thaler and Sunstein, *Nudge*
+
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
