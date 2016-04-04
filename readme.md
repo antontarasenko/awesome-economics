@@ -136,9 +136,7 @@ Please, add yourself and your economics-related projects.
 
 ### Economists
 
-* [clange](https://github.com/clange)
 * [davidrpugh](https://github.com/davidrpugh)
-* [ericpgreen](https://github.com/ericpgreen)
 * [hmgaudecker](https://github.com/hmgaudecker)
 * [jesusfv](https://github.com/jesusfv)
 * [jstac](https://github.com/jstac)
