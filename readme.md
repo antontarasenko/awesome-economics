@@ -2,6 +2,8 @@
 
 *A curated collection of links for economists*
 
+Your [contributions](contributing.md) are welcomed here.
+
 
 ## Studying
 
@@ -13,7 +15,9 @@
 
 ### Useful Materials
 
+* [Academic Search](https://cse.google.com/cse/publicurl?cx=002720237717066476899:e55ib8o11ka) - Search across `.edu` and other educational domains. These materials are more reliable than the big Internet.
 * [Foundational Equations of Economics](http://economics.stackexchange.com/questions/35/what-are-the-foundational-equations-of-economics) - These equations show principles behind "thinking like an economist". Graduate textbooks put these equiations in context.
+* [IGM Economic Experts Panel](http://www.igmchicago.org/igm-economic-experts-panel) - Top economists reflect on policy-related issues. Some answers contain useful details.
 
 
 ## Research
@@ -25,9 +29,10 @@
 
 ### Articles and Working Papers
 
-* [IDEAS RePEc](https://ideas.repec.org/) - The largest database of economics publications (2,000,000 items). Searching through papers is easier with Google: `site:ideas.repec.org <search term>`. Index sources mentioned below.
-* [NBER](http://nber.org/papers.html) - Working papers by major researchers. Many of these papers get published in peer-reviewed journal.
+* [IDEAS RePEc](https://ideas.repec.org/) - The largest database of economics publications (2,000,000 items). Searching through papers is easier with Google: ``site:ideas.repec.org <search term>``. Index sources mentioned below.
+* [NBER](http://nber.org/papers.html) - Working papers by major researchers. Many of these papers get published in peer-reviewed journal.
 * [SSRN Economics](http://ssrn.com/en/index.cfm/ern/) - Working papers, no journal publications.
+* [Google Scholar](http://scholar.google.com/) - Searching academic literature in general. Features author pages and citation counters. If you look for economic writings only, IDEAS would be more powerful.
 
 ### Data
 
@@ -35,7 +40,11 @@ Datasets
 
 * [FRED2](https://research.stlouisfed.org/fred2/) - 380,000 (macro) time series from 80 sources. Supports plugins for importing data into Excel, Stata, R, and others. Has a mobile app.
 * [World Bank Data](http://data.worldbank.org/) - International macro time series. Has data import plugins.
+* [IMF Data](http://www.imf.org/en/Data) - The standard reference for macro data.
 * [Quandl](https://www.quandl.com/) - Aggregate financial and economic data from multiple sources. Some data vendors sell their data via this service. Good integration with statistical software.
+* [MEDevEcon](https://sites.google.com/site/medevecon/development-economics/devecondata) - Data related to development economics.
+* [Monetary Economics: Data Sources](https://sites.google.com/site/davesmant/various/data-sets-sources) - Overview of macro data sources.
+* [OFFSTATS](http://www.offstats.auckland.ac.nz/) - Links to official data sources by country and subject.
 
 Search
 
@@ -112,10 +121,11 @@ Reviews
 
 ### Graduate
 
-* [American Economic Association: Graduate Training in Economics](https://www.aeaweb.org/gradstudents/index.php) - Overview of the programs, requirements, and advices to those considering a PhD program in economics.
+* [American Economic Association: Graduate Training in Economics](https://www.aeaweb.org/gradstudents/index.php) - Overview of the programs, requirements, and advices to those considering a PhD program in economics.
 
 ### Faculty
 
+* [Job Openings for Economists](https://www.aeaweb.org/joe/) - The job board by the American Economic Association.
 * [Econ Jobs Postings](https://econjobmarket.org/postings.php) - List of academic job openings.
 * [Economics Job Market Rumors](http://www.econjobrumors.com/wiki.php) - List of job openings for economists. Informal.
 
