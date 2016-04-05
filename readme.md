@@ -151,6 +151,7 @@ Please, add yourself and your economics-related projects.
 * [QuantEcon](https://github.com/QuantEcon/) - A library for quantitative economics
 * [quantecon_nyu_2016](https://github.com/jstac/quantecon_nyu_2016) - Topics in Computational Economics
 * [zice-2014](https://github.com/davidrpugh/zice-2014) - Course materials for Zurich Initiative for Computational Economics (ZICE) 2014
+* [VFI Toolkit](https://github.com/vfitoolkit) - Matlab toolkit for Value Function Iteration on GPU
 
 
 ## Literature by Field
