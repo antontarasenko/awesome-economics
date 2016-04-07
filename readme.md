@@ -1,8 +1,8 @@
 # Awesome Economics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-*A curated collection of links for economists*
+*A curated collection of links for economists. Part of the ["Awesome X" series](https://github.com/sindresorhus/awesome).*
 
-Your [contributions](contributing.md) are welcomed here.
+Your [contributions](contributing.md) are welcomed.
 
 
 ## Studying
@@ -62,7 +62,7 @@ Writing
   - [TikZ](http://www.texample.net/tikz/examples/) - An extension for drawing graphs. A [how-to](http://cremeronline.com/LaTeX/minimaltikz.pdf) and a [manual](http://www.texample.net/media/pgf/builds/pgfmanualCVS2012-11-04.pdf).
 * [LyX](http://www.lyx.org/) - A free and simple editor for LaTeX.
 * [Zotero](https://www.zotero.org/) - Bibliography management. Also install (a) Zotero browser plugin to import papers from RePEc to your library; (b) Zotero-LyX plugin to cite literature easily.
-* [Git](https://git-scm.com/downloads) - A version control system. Useful if you want to revert changes done months ago or collaborate with other authors. DropBox also has version control, but Git is more explicit. A [short intro](http://rogerdudler.github.io/git-guide/).
+* [Git](https://git-scm.com/downloads) - A version control system. Useful if you want to revert changes done months ago or collaborate with other authors. DropBox also has version control, but Git is more explicit. A [short intro](http://rogerdudler.github.io/git-guide/). Or use [GitHub Desktop](https://desktop.github.com/) if you like it simple.
 
 Computing
 
