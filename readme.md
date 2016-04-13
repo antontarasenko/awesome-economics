@@ -2,6 +2,8 @@
 
 *A curated collection of links for economists*
 
+The list is periodically updated with new links. Click "Watch" in the right top corner to follow.
+
 Your [contributions](contributing.md) are welcomed here.
 
 
@@ -18,6 +20,7 @@ Your [contributions](contributing.md) are welcomed here.
 * [Academic Search](https://cse.google.com/cse/publicurl?cx=002720237717066476899:e55ib8o11ka) - Search across `.edu` and other educational domains. These materials are more reliable than the big Internet.
 * [Foundational Equations of Economics](http://economics.stackexchange.com/questions/35/what-are-the-foundational-equations-of-economics) - These equations show principles behind "thinking like an economist". Graduate textbooks put these equiations in context.
 * [IGM Economic Experts Panel](http://www.igmchicago.org/igm-economic-experts-panel) - Top economists reflect on policy-related issues. Some answers contain useful details.
+* [AEA Resources for Economists](http://rfe.org/) - A list of useful links maintained by the American Economic Association.
 
 
 ## Research
@@ -105,6 +108,7 @@ Reviews
   - [Marginal Revolution](http://marginalrevolution.com/) - Tyler Cowen and Alex Tabarrok
   - [VOX CEPR](http://www.voxeu.org/) - Members of CEPR
 * [Economics Blog Search](https://cse.google.com/cse/publicurl?cx=002720237717066476899:i_zfef5fawa) - A Google-based search service for aforementioned blogs.
+* [AEA Blog Directory](https://www.aeaweb.org/rfe/showCat.php?cat_id=96) - The list of major economic blogs.
 * [StackExchange Economics](http://economics.stackexchange.com/) - A Q&A website where you can ask and answer questions.
 * Reddit - A popular news aggregator. Has many economics-related sections, for example:
   - [/r/GoodEconomics/](https://www.reddit.com/r/GoodEconomics/) - Selected pieces on economic issues.
@@ -143,6 +147,7 @@ Please, add yourself and your economics-related projects.
 * [nathanlane](https://github.com/nathanlane)
 * [robertdkirkby](https://github.com/robertdkirkby)
 * [trickvi](https://github.com/trickvi)
+* [nealbob](https://github.com/nealbob)
 
 ### Projects
 
@@ -162,6 +167,7 @@ You can also find recommended textbooks for each field on [MIT OCW Economics](ht
 * Simon and Blume, *Mathematics for Economists*
 * Stokey, Lucas, and Prescott, *Recursive Methods in Economic Dynamics*
 * Chiang and Wainwright, *Fundamental Methods of Mathematical Economics*
+* [Wolfram MathWorld](http://mathworld.wolfram.com/) - The Wikipedia for math. (Wikipedia itself is often a good reference.)
 
 ### Microeconomics
 
