@@ -13,7 +13,7 @@ Your [contributions](contributing.md) are welcomed.
 * [Discussions](#discussions)
 * [Career](#career)
 * [Economics on GitHub](#economics-on-github)
-* [Literature by Field](#Literature-by-Field)
+* [Literature by Field](#literature-by-field)
 * [License](#license)
 
 
