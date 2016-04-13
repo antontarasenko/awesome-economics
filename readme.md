@@ -6,6 +6,16 @@ The list is periodically updated with new links. Click "Watch" in the right top 
 
 Your [contributions](contributing.md) are welcomed.
 
+## Table of Contents
+
+* [Studying](#studying)
+* [Research](#research)
+* [Discussions](#discussions)
+* [Career](#career)
+* [Economics on GitHub](#economics-on-github)
+* [Literature by Field](#Literature-by-Field)
+* [License](#license)
+
 
 ## Studying
 
