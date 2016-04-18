@@ -168,6 +168,10 @@ Please, add yourself and your economics-related projects.
 * [zice-2014](https://github.com/davidrpugh/zice-2014) - Course materials for Zurich Initiative for Computational Economics (ZICE) 2014
 * [VFI Toolkit](https://github.com/vfitoolkit) - Matlab toolkit for Value Function Iteration on GPU
 
+### Links Sent by Users
+
+* [Economics Games](http://economics-games.com/) - Free online classroom games for teaching economics
+
 
 ## Literature by Field
 
