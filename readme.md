@@ -150,74 +150,27 @@ Please, add yourself and your economics-related projects.
 
 ### Economists
 
-* [davidrpugh](https://github.com/davidrpugh)
-* [hmgaudecker](https://github.com/hmgaudecker)
+* [davidrpugh](https://github.com/davidrpugh) - Institute for New Economic Thinking, Oxford Martin School; Oxford Mathematical Institute, Oxford, UK. 
+* [hmgaudecker](https://github.com/hmgaudecker) - Universität Bonn, Bonn, Germany.
 * [jesusfv](https://github.com/jesusfv)
-* [jstac](https://github.com/jstac)
-* [nathanlane](https://github.com/nathanlane)
+* [jstac](https://github.com/jstac) - Australian National University, Canberra, Australia.
+* [nathanlane](https://github.com/nathanlane) - Institute for International Economic Studies, Stockholm, Sweden.
 * [robertdkirkby](https://github.com/robertdkirkby)
-* [trickvi](https://github.com/trickvi)
-* [nealbob](https://github.com/nealbob)
+* [trickvi](https://github.com/trickvi) - Hagstofa Íslands, Iceland.
+* [nealbob](https://github.com/nealbob) - Australian National University, Canberra, Australia.
 
 ### Projects
 
-* [economics-book](https://github.com/philschatz/economics-book) - Economics Textbook (Openstax)
-* [pyeconomics](https://github.com/davidrpugh/pyeconomics) - Computational economics in Python
-* [QuantEcon](https://github.com/QuantEcon/) - A library for quantitative economics
+* [economics-book](https://github.com/philschatz/economics-book) - Economics Textbook (Openstax).
+* [pyeconomics](https://github.com/davidrpugh/pyeconomics) - Computational economics in Python.
+* [QuantEcon](https://github.com/QuantEcon/) - A library for quantitative economics.
 * [quantecon_nyu_2016](https://github.com/jstac/quantecon_nyu_2016) - Topics in Computational Economics
-* [zice-2014](https://github.com/davidrpugh/zice-2014) - Course materials for Zurich Initiative for Computational Economics (ZICE) 2014
-* [VFI Toolkit](https://github.com/vfitoolkit) - Matlab toolkit for Value Function Iteration on GPU
+* [zice-2014](https://github.com/davidrpugh/zice-2014) - Course materials for Zurich Initiative for Computational Economics (ZICE) 2014.
+* [VFI Toolkit](https://github.com/vfitoolkit) - Matlab toolkit for Value Function Iteration on GPU.
 
 ### Links Sent by Users
 
-* [Economics Games](http://economics-games.com/) - Free online classroom games for teaching economics
-
-
-## Literature by Field
-
-You can also find recommended textbooks for each field on [MIT OCW Economics](http://ocw.mit.edu/courses/economics/) (section "Syllabus").
-
-### Mathematical methods
-
-* Simon and Blume, *Mathematics for Economists*
-* Stokey, Lucas, and Prescott, *Recursive Methods in Economic Dynamics*
-* Chiang and Wainwright, *Fundamental Methods of Mathematical Economics*
-* [Wolfram MathWorld](http://mathworld.wolfram.com/) - The Wikipedia for math. (Wikipedia itself is often a good reference.)
-
-### Microeconomics
-
-* Mas-Colell, Whinston, and Green, *Microeconomic Theory*
-* Varian, *Microeconomic Analysis*
-
-### Game theory
-
-* Fudenberg and Tirole, *Game Theory*
-* Myerson, *Game Theory*
-* Osborne and Rubinstein, *A Course in Game Theory*
-
-### Macroeconomics
-
-* Acemoglu, *Introduction to Modern Economic Growth*
-* Ljungqvist and Sargent, *Recursive Macroeconomic Theory*
-* Obstfeld and Rogoff, *Foundations of International Macroeconomics*
-* Dornbusch and Fischer, *Macroeconomics*
-* Woodford, *Interest and Prices*
-* Walsh, *Monetary Theory and Policy*
-* Galí, *Monetary Policy, Inflation, and the Business Cycle*
-
-### Econometrics
-
-* Angrist and Pischke, *Mostly Harmless Econometrics*
-* Wooldridge, *Econometric Analysis of Cross Section and Panel Data*
-* Greene, *Econometric Analysis*
-* Hamilton, *Time Series Analysis*
-* Cameron and Trivedi, *Microeconometrics*
-
-### Popular Literature
-
-* Kahneman, *Thinking, Fast and Slow*
-* Dubner and Lewitt, *Freakonomics*
-* Thaler and Sunstein, *Nudge*
+* [Economics Games](http://economics-games.com/) - Free online classroom games for teaching economics.
 
 
 ## License
