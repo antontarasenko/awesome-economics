@@ -171,6 +171,7 @@ Please, add yourself and your economics-related projects.
 ### Links Sent by Users
 
 * [Economics Games](http://economics-games.com/) - Free online classroom games for teaching economics.
+* [Top 100 Economics Blogs](https://www.intelligenteconomist.com/top-economics-blogs-2016/) - Links to popular economics blogs, with brief descriptions.
 
 
 ## License
