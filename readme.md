@@ -168,10 +168,12 @@ Please, add yourself and your economics-related projects.
 * [zice-2014](https://github.com/davidrpugh/zice-2014) - Course materials for Zurich Initiative for Computational Economics (ZICE) 2014.
 * [VFI Toolkit](https://github.com/vfitoolkit) - Matlab toolkit for Value Function Iteration on GPU.
 
-### Links Sent by Users
+### Links Sent by Readers
 
 * [Economics Games](http://economics-games.com/) - Free online classroom games for teaching economics.
 * [Top 100 Economics Blogs](https://www.intelligenteconomist.com/top-economics-blogs-2016/) - Links to popular economics blogs, with brief descriptions.
+* [Deveconodata Blogspot](http://devecondata.blogspot.com/) - Development economics datasets. Updated regularly.
+* [fecon235](https://github.com/rsvp/fecon235) - Computational tools for financial economics, Python code base and tutorials using Jupyter notebooks, includes data retrieval, graphics, and optimization.
 
 
 ## License
