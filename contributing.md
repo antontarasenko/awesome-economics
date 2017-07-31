@@ -15,6 +15,8 @@ If you have a question about the content, feel free to submit it as an [issue](i
 
 ## Adding to this list
 
+First, thank you for your suggestions!
+
 Please ensure your pull request adheres to the following guidelines:
 
 - Search previous suggestions before making a new one, as yours may be a duplicate.
@@ -29,7 +31,9 @@ Please ensure your pull request adheres to the following guidelines:
 - The pull request and commit should have a useful title.
 - The body of your commit message should contain a link to the repository.
 
-Thank you for your suggestions!
+Then append your suggestion to the list of "Links Sent by Readers" section. Once in a while, I review this list and move links to other categories.
+
+See you there!
 
 ## Adding something to an awesome list
 
