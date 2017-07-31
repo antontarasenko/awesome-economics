@@ -86,6 +86,7 @@ Computing
   - [Octave](https://www.gnu.org/software/octave/)
 * [Mathematica](https://www.wolfram.com/mathematica/) - Symbolic computations. Free alternative
   - [Sage](http://www.sagemath.org/)
+* [fecon235](https://github.com/rsvp/fecon235) - Computational tools for financial economics, Python code base and tutorials using Jupyter notebooks, includes data retrieval, graphics, and optimization.
 
 Sharing
 
