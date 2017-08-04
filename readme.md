@@ -4,7 +4,7 @@
 
 The list is periodically updated with new links. Click "Watch" in the right top corner to follow.
 
-Your contributions are welcomed. Add links [by yourself](contributing.md) or send them to <mailto:antontarasenko@gmail.com>.
+Your contributions are welcomed. Add links to "Links Sent by Readers" [by yourself](contributing.md) or send them to <mailto:antontarasenko@gmail.com>.
 
 ## Table of Contents
 
