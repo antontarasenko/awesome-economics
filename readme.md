@@ -31,6 +31,7 @@ Your contributions are welcomed. Add links [by yourself](contributing.md) or sen
 * [Foundational Equations of Economics](http://economics.stackexchange.com/questions/35/what-are-the-foundational-equations-of-economics) - These equations show principles behind "thinking like an economist". Graduate textbooks put these equiations in context.
 * [IGM Economic Experts Panel](http://www.igmchicago.org/igm-economic-experts-panel) - Top economists reflect on policy-related issues. Some answers contain useful details.
 * [AEA Resources for Economists](http://rfe.org/) - A list of useful links maintained by the American Economic Association.
+* [Quantitative Economics](https://lectures.quantecon.org/py/index.html) - Lecture series by Thomas J. Sargent and John Stachurski using Python computational tools.
 
 
 ## Research
