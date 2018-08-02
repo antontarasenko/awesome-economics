@@ -10,6 +10,7 @@ Your contributions are welcomed. Add links to "Links Sent by Readers" [by yourse
 
 * [Studying](#studying)
 * [Research](#research)
+* [Software](#software)
 * [Discussions](#discussions)
 * [Career](#career)
 * [Economics on GitHub](#economics-on-github)
@@ -66,22 +67,24 @@ Search
 * [StackExchange Open Data](http://opendata.stackexchange.com/) - If you haven't found the data you were looking for, you can ask it here.
 * [Reddit /r/datasets](https://www.reddit.com/r/datasets) - One more place to request datasets.
 
-### Software
 
-Writing
 
-* [LaTeX](https://www.latex-project.org/) - Economists write in LaTeX because it handles mathematics and references better than Word or LibreOffice. If you write regularly, LaTeX is worth learning.
-  - [Beamer](https://www.ctan.org/pkg/beamer?lang=en) - A LaTeX class for presentations.
-  - [TikZ](http://www.texample.net/tikz/examples/) - An extension for drawing graphs. A [how-to](http://cremeronline.com/LaTeX/minimaltikz.pdf) and a [manual](http://www.texample.net/media/pgf/builds/pgfmanualCVS2012-11-04.pdf).
-* [LyX](http://www.lyx.org/) - A free and simple editor for LaTeX.
-* [Zotero](https://www.zotero.org/) - Bibliography management. Also install (a) Zotero browser plugin to import papers from RePEc to your library; (b) Zotero-LyX plugin to cite literature easily.
-* [Git](https://git-scm.com/downloads) - A version control system. Useful if you want to revert changes done months ago or collaborate with other authors. DropBox also has version control, but Git is more explicit. A [short intro](http://rogerdudler.github.io/git-guide/). Or use [GitHub Desktop](https://desktop.github.com/) if you like it simple.
+### Useful Materials
+
+* [How to efficiently manage a statistical analysis project?](http://stats.stackexchange.com/questions/2910/how-to-efficiently-manage-a-statistical-analysis-project)
+* RePEc Rankings by citations
+  - [Top Authors](https://ideas.repec.org/top/top.person.all.html)
+  - [Economic Institutions](https://ideas.repec.org/top/top.inst.nbcites.html)
+  - [Research Items](https://ideas.repec.org/top/top.item.nbcites.html)
+  - [Software Items](http://logec.repec.org/scripts/itemstat.pf?type=redif-software)
+
+## Software
 
 Computing
 
+* [Python](http://python.org/) - A Python-based environment. Econometric analysis requires SciPy, NumPy, statsmodels, and some other libraries installed. Consider installing [Anaconda](https://www.continuum.io/downloads), which contains much of the needed stuff. There is an economic ecosystem evolving around [Econforge](https://github.com/EconForge) and [QuantEcon](https://lectures.quantecon.org/py/).
 * [Stata](http://www.stata.com/) - An industry standard for statistical computations in economics. Free alternatives:
-  - [IPython](http://ipython.org/) - A Python-based environment. Econometric analysis requires SciPy, NumPy, statsmodels, and some other libraries installed. Consider installing [Anaconda](https://www.continuum.io/downloads), which contains much of the needed stuff.
-  - [RStudio](https://www.rstudio.com/) - A R-based environment. Many statistical R libraries are not available in other languages, so it's a pretty rich platform.
+* [RStudio](https://www.rstudio.com/) - A R-based environment. Many statistical R libraries are not available in other languages, so it's a pretty rich platform.
 * [Matlab](http://www.mathworks.com/products/matlab/) - An industry standard for modeling and numerical optimization in economics. Free alternatives:
   - [Octave](https://www.gnu.org/software/octave/)
 * [Mathematica](https://www.wolfram.com/mathematica/) - Symbolic computations. Free alternative
@@ -99,15 +102,14 @@ Reviews
 * [Most common programs used by Economists](http://economics.stackexchange.com/questions/5853/most-common-programs-used-by-economists) - A community-managed list of common software.
 * [Software for Researchers: New Data and Applications](https://antontarasenko.com/2016/01/14/software-for-research/) - Covers software mentioned above and some more.
 
-### Useful Materials
+Writing
 
-* [How to efficiently manage a statistical analysis project?](http://stats.stackexchange.com/questions/2910/how-to-efficiently-manage-a-statistical-analysis-project)
-* RePEc Rankings by citations
-  - [Top Authors](https://ideas.repec.org/top/top.person.all.html)
-  - [Economic Institutions](https://ideas.repec.org/top/top.inst.nbcites.html)
-  - [Research Items](https://ideas.repec.org/top/top.item.nbcites.html)
-  - [Software Items](http://logec.repec.org/scripts/itemstat.pf?type=redif-software)
-
+* [LaTeX](https://www.latex-project.org/) - Economists write in LaTeX because it handles mathematics and references better than Word or LibreOffice. If you write regularly, LaTeX is worth learning.
+  - [Beamer](https://www.ctan.org/pkg/beamer?lang=en) - A LaTeX class for presentations.
+  - [TikZ](http://www.texample.net/tikz/examples/) - An extension for drawing graphs. A [how-to](http://cremeronline.com/LaTeX/minimaltikz.pdf) and a [manual](http://www.texample.net/media/pgf/builds/pgfmanualCVS2012-11-04.pdf).
+* [LyX](http://www.lyx.org/) - A free and simple editor for LaTeX.
+* [Zotero](https://www.zotero.org/) - Bibliography management. Also install (a) Zotero browser plugin to import papers from RePEc to your library; (b) Zotero-LyX plugin to cite literature easily.
+* [Git](https://git-scm.com/downloads) - A version control system. Useful if you want to revert changes done months ago or collaborate with other authors. DropBox also has version control, but Git is more explicit. A [short intro](http://rogerdudler.github.io/git-guide/). Or use [GitHub Desktop](https://desktop.github.com/) if you like it simple.
 
 ## Discussions
 
