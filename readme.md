@@ -4,7 +4,7 @@
 
 The list is periodically updated with new links. Click "Watch" in the right top corner to follow.
 
-Your contributions are welcomed. Add links to "Links Sent by Readers" [by yourself](contributing.md) or send them to <mailto:antontarasenko@gmail.com>.
+Your contributions are welcomed. Add links to "Links Sent by Readers" [by yourself](contributing.md) or send new content to <antontarasenko@gmail.com>.
 
 ## Table of Contents
 
@@ -146,38 +146,40 @@ Reviews
 
 ## Economics on GitHub
 
-Please, add yourself and your economics-related projects.
+_Sorted alphabetically_
 
 ### Economists
 
 * [davidrpugh](https://github.com/davidrpugh) - Institute for New Economic Thinking, Oxford Martin School; Oxford Mathematical Institute, Oxford, UK. 
+* [gboehl](https://github.com/gboehl) - Goethe University Frankfurt, Frankfurt Germany.
 * [hmgaudecker](https://github.com/hmgaudecker) - Universität Bonn, Bonn, Germany.
 * [jesusfv](https://github.com/jesusfv)
 * [jstac](https://github.com/jstac) - Australian National University, Canberra, Australia.
 * [nathanlane](https://github.com/nathanlane) - Institute for International Economic Studies, Stockholm, Sweden.
+* [nealbob](https://github.com/nealbob) - Australian National University, Canberra, Australia.
 * [robertdkirkby](https://github.com/robertdkirkby)
 * [trickvi](https://github.com/trickvi) - Hagstofa Íslands, Iceland.
-* [nealbob](https://github.com/nealbob) - Australian National University, Canberra, Australia.
 
 ### Projects
 
+* [EconForge](https://github.com/EconForge) - Team around Pablo Winant providing packages to solve economic models.
 * [economics-book](https://github.com/philschatz/economics-book) - Economics Textbook (Openstax).
+* [fecon235](https://github.com/rsvp/fecon235) - Computational tools for financial economics, Python code base and tutorials using Jupyter notebooks, includes data retrieval, graphics, and optimization.
 * [pyeconomics](https://github.com/davidrpugh/pyeconomics) - Computational economics in Python.
 * [QuantEcon](https://github.com/QuantEcon/) - A library for quantitative economics.
 * [quantecon_nyu_2016](https://github.com/jstac/quantecon_nyu_2016) - Topics in Computational Economics
-* [zice-2014](https://github.com/davidrpugh/zice-2014) - Course materials for Zurich Initiative for Computational Economics (ZICE) 2014.
 * [VFI Toolkit](https://github.com/vfitoolkit) - Matlab toolkit for Value Function Iteration on GPU.
+* [zice-2014](https://github.com/davidrpugh/zice-2014) - Course materials for Zurich Initiative for Computational Economics (ZICE) 2014.
 
-### Links Sent by Readers
 
-* [Economics Games](http://economics-games.com/) - Free online classroom games for teaching economics.
-* [Top 100 Economics Blogs](https://www.intelligenteconomist.com/top-economics-blogs-2016/) - Links to popular economics blogs, with brief descriptions.
+## Links Sent by Readers
+
 * [Deveconodata Blogspot](http://devecondata.blogspot.com/) - Development economics datasets. Updated regularly.
-* [fecon235](https://github.com/rsvp/fecon235) - Computational tools for financial economics, Python code base and tutorials using Jupyter notebooks, includes data retrieval, graphics, and optimization.
+* [Economics Games](http://economics-games.com/) - Free online classroom games for teaching economics.
 * [Quantitative Economics](https://lectures.quantecon.org/py/index.html) - Lecture series by Thomas J. Sargent and John Stachurski using Python computational tools.
+* [Top 100 Economics Blogs](https://www.intelligenteconomist.com/top-economics-blogs-2016/) - Links to popular economics blogs, with brief descriptions.
 
 
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
