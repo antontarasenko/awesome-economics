@@ -76,6 +76,7 @@ Writing
 * [LyX](http://www.lyx.org/) - A free and simple editor for LaTeX.
 * [Zotero](https://www.zotero.org/) - Bibliography management. Also install (a) Zotero browser plugin to import papers from RePEc to your library; (b) Zotero-LyX plugin to cite literature easily.
 * [Git](https://git-scm.com/downloads) - A version control system. Useful if you want to revert changes done months ago or collaborate with other authors. DropBox also has version control, but Git is more explicit. A [short intro](http://rogerdudler.github.io/git-guide/). Or use [GitHub Desktop](https://desktop.github.com/) if you like it simple.
+* [Mendeley](https://www.mendeley.com) - Bibliography management. Support synchronization on multiple plateforms: Mac, Windows, Ipad, Phone...
 
 Computing
 
@@ -86,6 +87,7 @@ Computing
   - [Octave](https://www.gnu.org/software/octave/)
 * [Mathematica](https://www.wolfram.com/mathematica/) - Symbolic computations. Free alternative
   - [Sage](http://www.sagemath.org/)
+* [Julia](https://julialang.org/) - An open source scientific computing softerware.
 
 Sharing
 
