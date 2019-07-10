@@ -14,6 +14,7 @@ Your contributions are welcomed. Add links to "Links Sent by Readers" [by yourse
 * [Career](#career)
 * [Economics on GitHub](#economics-on-github)
 * [Literature by Field](#literature-by-field)
+* [Lecture Notes](#Lecture-Notes)
 * [License](#license)
 
 
@@ -181,6 +182,7 @@ _Sorted alphabetically_
 * [Quantitative Economics](https://lectures.quantecon.org/py/index.html) - Lecture series by Thomas J. Sargent and John Stachurski using Python computational tools.
 * [Top 100 Economics Blogs](https://www.intelligenteconomist.com/top-economics-blogs-2016/) - Links to popular economics blogs, with brief descriptions.
 
+## Lecture Notes
 
 ## License
 
