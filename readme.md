@@ -184,7 +184,7 @@ _Sorted alphabetically_
 
 ## Lecture Notes
 
-* Nolan Miller(Harvard)[Lecture notes on Microeconomics Theory](https://www.business.illinois.edu/nmiller/notes.html)
+* Nolan Miller(Harvard) - [Lecture notes on Microeconomics Theory](https://www.business.illinois.edu/nmiller/notes.html)
 
 ## License
 
