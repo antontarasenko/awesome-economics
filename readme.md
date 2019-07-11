@@ -14,7 +14,6 @@ Your contributions are welcomed. Add links to "Links Sent by Readers" [by yourse
 * [Career](#career)
 * [Economics on GitHub](#economics-on-github)
 * [Literature by Field](#literature-by-field)
-* [Lecture Notes](#Lecture-Notes)
 * [License](#license)
 
 
@@ -33,6 +32,9 @@ Your contributions are welcomed. Add links to "Links Sent by Readers" [by yourse
 * [IGM Economic Experts Panel](http://www.igmchicago.org/igm-economic-experts-panel) - Top economists reflect on policy-related issues. Some answers contain useful details.
 * [AEA Resources for Economists](http://rfe.org/) - A list of useful links maintained by the American Economic Association.
 
+### Lecture Notes
+
+* Nolan Miller(Harvard) - [Lecture notes on Microeconomics Theory](https://www.business.illinois.edu/nmiller/notes.html)
 
 ## Research
 
@@ -182,9 +184,6 @@ _Sorted alphabetically_
 * [Quantitative Economics](https://lectures.quantecon.org/py/index.html) - Lecture series by Thomas J. Sargent and John Stachurski using Python computational tools.
 * [Top 100 Economics Blogs](https://www.intelligenteconomist.com/top-economics-blogs-2016/) - Links to popular economics blogs, with brief descriptions.
 
-## Lecture Notes
-
-* Nolan Miller(Harvard) - [Lecture notes on Microeconomics Theory](https://www.business.illinois.edu/nmiller/notes.html)
 
 ## License
 
