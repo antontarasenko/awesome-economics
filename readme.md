@@ -80,8 +80,8 @@ Writing
 Computing
 
 * [Stata](http://www.stata.com/) - An industry standard for statistical computations in economics. Free alternatives:
-* [Python](http://ipython.org/) - A Python-based environment. Econometric analysis requires SciPy, NumPy, statsmodels, and some other libraries installed. Consider installing [Anaconda](https://www.continuum.io/downloads), which contains much of the needed stuff.
-* [R](https://www.rstudio.com/) - A R-based environment. Many statistical R libraries are not available in other languages, so it's a pretty rich platform.
+  - [IPython](http://ipython.org/) - A Python-based environment. Econometric analysis is done with free packages: statsmodels, SciPy, NumPy, pandas.
+  - [RStudio](https://www.rstudio.com/) - An R-based environment. R is the standard language among statisticians, so the R repositories often contain specialized libraries not available in other languages.
 * [Matlab](http://www.mathworks.com/products/matlab/) - An industry standard for modeling and numerical optimization in economics. Free alternatives:
   - [Octave](https://www.gnu.org/software/octave/)
 * [Mathematica](https://www.wolfram.com/mathematica/) - Symbolic computations. Free alternative
