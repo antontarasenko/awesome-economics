@@ -80,8 +80,8 @@ Writing
 Computing
 
 * [Stata](http://www.stata.com/) - An industry standard for statistical computations in economics. Free alternatives:
-  - [IPython](http://ipython.org/) - A Python-based environment. Econometric analysis requires SciPy, NumPy, statsmodels, and some other libraries installed. Consider installing [Anaconda](https://www.continuum.io/downloads), which contains much of the needed stuff.
-  - [RStudio](https://www.rstudio.com/) - A R-based environment. Many statistical R libraries are not available in other languages, so it's a pretty rich platform.
+* [Python](http://ipython.org/) - A Python-based environment. Econometric analysis requires SciPy, NumPy, statsmodels, and some other libraries installed. Consider installing [Anaconda](https://www.continuum.io/downloads), which contains much of the needed stuff.
+* [R](https://www.rstudio.com/) - A R-based environment. Many statistical R libraries are not available in other languages, so it's a pretty rich platform.
 * [Matlab](http://www.mathworks.com/products/matlab/) - An industry standard for modeling and numerical optimization in economics. Free alternatives:
   - [Octave](https://www.gnu.org/software/octave/)
 * [Mathematica](https://www.wolfram.com/mathematica/) - Symbolic computations. Free alternative
@@ -164,7 +164,10 @@ _Sorted alphabetically_
 
 * [EconForge](https://github.com/EconForge) - Team around Pablo Winant providing packages to solve economic models.
 * [economics-book](https://github.com/philschatz/economics-book) - Economics Textbook (Openstax).
+* [econsieve](https://github.com/gboehl/econsieve) - Filter for large-scale nonlinear models.
 * [fecon235](https://github.com/rsvp/fecon235) - Computational tools for financial economics, Python code base and tutorials using Jupyter notebooks, includes data retrieval, graphics, and optimization.
+* [macro_puzzles](https://github.com/gboehl/macro_puzzles) - A list of puzzles in macroeconomics.
+* [pydsge](https://github.com/gboehl/pydsge) - Tools to solve, filter, and estimate DSGE models with occasionally binding constraints.
 * [pyeconomics](https://github.com/davidrpugh/pyeconomics) - Computational economics in Python.
 * [QuantEcon](https://github.com/QuantEcon/) - A library for quantitative economics.
 * [quantecon_nyu_2016](https://github.com/jstac/quantecon_nyu_2016) - Topics in Computational Economics
