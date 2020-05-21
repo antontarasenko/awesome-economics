@@ -84,6 +84,7 @@ Computing
   - [RStudio](https://www.rstudio.com/) - An R-based environment. R is the standard language among statisticians, so the R repositories often contain specialized libraries not available in other languages.
 * [Matlab](http://www.mathworks.com/products/matlab/) - An industry standard for modeling and numerical optimization in economics. Free alternatives:
   - [Octave](https://www.gnu.org/software/octave/)
+  - [Julia](https://julialang.org/) - High-level dynamic programming language designed to address the needs of high-performance numerical analysis and computational science.
 * [Mathematica](https://www.wolfram.com/mathematica/) - Symbolic computations. Free alternative
   - [Sage](http://www.sagemath.org/)
 
