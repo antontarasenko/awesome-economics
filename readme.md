@@ -182,6 +182,7 @@ _Sorted alphabetically_
 * [Economics Games](http://economics-games.com/) - Free online classroom games for teaching economics.
 * [Quantitative Economics](https://lectures.quantecon.org/py/index.html) - Lecture series by Thomas J. Sargent and John Stachurski using Python computational tools.
 * [Top 100 Economics Blogs](https://www.intelligenteconomist.com/top-economics-blogs-2016/) - Links to popular economics blogs, with brief descriptions.
+* [Compute Studio](https://compute.studio) - An open source platform for sharing computational models as web applications. As an example of how a model application looks, see [Tax-Brain](https://compute.studio/pslmodels/tax-brain). 
 
 
 ## License
