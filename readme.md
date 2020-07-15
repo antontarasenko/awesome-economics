@@ -182,6 +182,7 @@ _Sorted alphabetically_
 * [Economics Games](http://economics-games.com/) - Free online classroom games for teaching economics.
 * [Quantitative Economics](https://lectures.quantecon.org/py/index.html) - Lecture series by Thomas J. Sargent and John Stachurski using Python computational tools.
 * [Top 100 Economics Blogs](https://www.intelligenteconomist.com/top-economics-blogs-2016/) - Links to popular economics blogs, with brief descriptions.
+* [Policy Simulation Library](https://github.com/pslmodels) - A collection of open source models for economic policy analysis. 
 
 
 ## License
