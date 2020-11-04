@@ -55,7 +55,7 @@ Datasets
 * [World Bank Data](http://data.worldbank.org/) - International macro time series. Has data import plugins.
 * [IMF Data](http://www.imf.org/en/Data) - The standard reference for macro data.
 * [Quandl](https://www.quandl.com/) - Aggregate financial and economic data from multiple sources. Some data vendors sell their data via this service. Good integration with statistical software.
-* [MEDevEcon](https://sites.google.com/site/medevecon/development-economics/devecondata) - Data related to development economics.
+* [MEDevEcon](https://sites.google.com/site/medevecon/devecondata) - Data related to development economics.
 * [Monetary Economics: Data Sources](https://sites.google.com/site/davesmant/various/data-sets-sources) - Overview of macro data sources.
 * [OFFSTATS](http://www.offstats.auckland.ac.nz/) - Links to official data sources by country and subject.
 
