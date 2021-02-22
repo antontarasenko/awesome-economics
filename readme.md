@@ -156,6 +156,7 @@ _Sorted alphabetically_
 * [hmgaudecker](https://github.com/hmgaudecker) - Universität Bonn, Bonn, Germany.
 * [jesusfv](https://github.com/jesusfv)
 * [jstac](https://github.com/jstac) - Australian National University, Canberra, Australia.
+* [mwt](https://github.com/mwt) - Northwestern University, USA
 * [nathanlane](https://github.com/nathanlane) - Institute for International Economic Studies, Stockholm, Sweden.
 * [nealbob](https://github.com/nealbob) - Australian National University, Canberra, Australia.
 * [robertdkirkby](https://github.com/robertdkirkby)
