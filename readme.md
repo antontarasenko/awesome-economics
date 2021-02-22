@@ -160,6 +160,7 @@ _Sorted alphabetically_
 * [nealbob](https://github.com/nealbob) - Australian National University, Canberra, Australia.
 * [robertdkirkby](https://github.com/robertdkirkby)
 * [trickvi](https://github.com/trickvi) - Hagstofa Íslands, Iceland.
+* [mwt](https://github.com/mwt) - Northwestern University, USA
 
 ### Projects
 
