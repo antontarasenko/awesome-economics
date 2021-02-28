@@ -124,8 +124,8 @@ Reviews
 * Reddit - A popular news aggregator. Has many economics-related sections, for example:
   - [/r/GoodEconomics/](https://www.reddit.com/r/GoodEconomics/) - Selected pieces on economic issues.
   - [/r/EconPapers/](https://www.reddit.com/r/EconPapers/) - Discussing economic papers.
-* Discord Server - A popular chatting platform with number of communities. 
-  - [Academic Economics](https://discord.gg/n9V7hjNtPV) - A growing discord community of economists. It is a place where Undergraduate, Graaduate and practicing economists intract and help eachother. It is a great chat based discussion platform.
+* Discord - A popular chat platform
+  - [Academic Economics](https://discord.gg/n9V7hjNtPV) - A community with rooms to discuss economics and help members with exercises
 
 ## Career
 
