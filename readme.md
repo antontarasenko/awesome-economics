@@ -32,10 +32,6 @@ Your contributions are welcomed. Add links to "Links Sent by Readers" [by yourse
 * [IGM Economic Experts Panel](http://www.igmchicago.org/igm-economic-experts-panel) - Top economists reflect on policy-related issues. Some answers contain useful details.
 * [AEA Resources for Economists](http://rfe.org/) - A list of useful links maintained by the American Economic Association.
 
-### Lecture Notes
-
-* Nolan Miller(Harvard) - [Lecture notes on Microeconomics Theory](https://www.business.illinois.edu/nmiller/notes.html)
-
 ## Research
 
 ### Portals
