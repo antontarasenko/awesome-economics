@@ -32,6 +32,9 @@ Your contributions are welcomed. Add links to "Links Sent by Readers" [by yourse
 * [IGM Economic Experts Panel](http://www.igmchicago.org/igm-economic-experts-panel) - Top economists reflect on policy-related issues. Some answers contain useful details.
 * [AEA Resources for Economists](http://rfe.org/) - A list of useful links maintained by the American Economic Association.
 
+### Lecture Notes
+
+* Nolan Miller(Harvard) - [Lecture notes on Microeconomics Theory](https://www.business.illinois.edu/nmiller/notes.html)
 
 ## Research
 
@@ -76,6 +79,7 @@ Writing
 * [LyX](http://www.lyx.org/) - A free and simple editor for LaTeX.
 * [Zotero](https://www.zotero.org/) - Bibliography management. Also install (a) Zotero browser plugin to import papers from RePEc to your library; (b) Zotero-LyX plugin to cite literature easily.
 * [Git](https://git-scm.com/downloads) - A version control system. Useful if you want to revert changes done months ago or collaborate with other authors. DropBox also has version control, but Git is more explicit. A [short intro](http://rogerdudler.github.io/git-guide/). Or use [GitHub Desktop](https://desktop.github.com/) if you like it simple.
+* [Mendeley](https://www.mendeley.com) - Bibliography management. Support synchronization on multiple plateforms: Mac, Windows, Ipad, Phone...
 
 Computing
 
@@ -87,6 +91,7 @@ Computing
   - [Julia](https://julialang.org/) - High-level dynamic programming language designed to address the needs of high-performance numerical analysis and computational science.
 * [Mathematica](https://www.wolfram.com/mathematica/) - Symbolic computations. Free alternative
   - [Sage](http://www.sagemath.org/)
+* [Julia](https://julialang.org/) - An open source scientific computing softerware.
 
 Sharing
 
