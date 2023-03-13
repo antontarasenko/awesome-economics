@@ -142,7 +142,7 @@ Reviews
 ### Faculty
 
 * [Job Openings for Economists](https://www.aeaweb.org/joe/) - The job board by the American Economic Association.
-* [Econ Jobs Postings](https://econjobmarket.org/postings.php) - List of academic job openings.
+* [Econ Jobs Postings](https://econjobmarket.org/positions) - List of academic job openings.
 * [Economics Job Market Rumors](http://www.econjobrumors.com/wiki.php) - List of job openings for economists. Informal.
 
 
