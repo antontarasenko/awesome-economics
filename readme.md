@@ -177,6 +177,7 @@ _Sorted alphabetically_
 * [quantecon_nyu_2016](https://github.com/jstac/quantecon_nyu_2016) - Topics in Computational Economics
 * [VFI Toolkit](https://github.com/vfitoolkit) - Matlab toolkit for Value Function Iteration on GPU.
 * [zice-2014](https://github.com/davidrpugh/zice-2014) - Course materials for Zurich Initiative for Computational Economics (ZICE) 2014.
+* [Computational Economics](https://github.com/uwol/computational-economy) - An agent-based computational economy.
 
 
 ## Links Sent by Readers
