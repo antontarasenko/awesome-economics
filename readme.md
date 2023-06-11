@@ -178,6 +178,8 @@ _Sorted alphabetically_
 * [VFI Toolkit](https://github.com/vfitoolkit) - Matlab toolkit for Value Function Iteration on GPU.
 * [zice-2014](https://github.com/davidrpugh/zice-2014) - Course materials for Zurich Initiative for Computational Economics (ZICE) 2014.
 * [Computational Economics](https://github.com/uwol/computational-economy) - An agent-based computational economy.
+* [EconML](https://github.com/py-why/EconML) - Python Package for ML-Based Heterogeneous Treatment Effects Estimation
+* [AI Economist](https://github.com/salesforce/ai-economist) - Foundation: An Economic Simulation Framework
 
 
 ## Links Sent by Readers
