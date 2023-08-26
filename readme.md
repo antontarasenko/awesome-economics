@@ -82,11 +82,13 @@ Computing
 * [Stata](http://www.stata.com/) - An industry standard for statistical computations in economics. Free alternatives:
   - [IPython](http://ipython.org/) - A Python-based environment. Econometric analysis is done with free packages: statsmodels, SciPy, NumPy, pandas.
   - [RStudio](https://www.rstudio.com/) - An R-based environment. R is the standard language among statisticians, so the R repositories often contain specialized libraries not available in other languages.
+  - [Visual Studio Code](https://code.visualstudio.com/) - Extensible integrated development environment that supports git, Python, R, and LaTeX
 * [Matlab](http://www.mathworks.com/products/matlab/) - An industry standard for modeling and numerical optimization in economics. Free alternatives:
   - [Octave](https://www.gnu.org/software/octave/)
   - [Julia](https://julialang.org/) - High-level dynamic programming language designed to address the needs of high-performance numerical analysis and computational science.
 * [Mathematica](https://www.wolfram.com/mathematica/) - Symbolic computations. Free alternative
   - [Sage](http://www.sagemath.org/)
+  - [Python's sympy package](https://www.sympy.org/)
 * [Julia](https://julialang.org/) - An open source scientific computing softerware.
 
 Sharing
@@ -185,6 +187,7 @@ _Sorted alphabetically_
 * [Economics Games](http://economics-games.com/) - Free online classroom games for teaching economics.
 * [Quantitative Economics](https://lectures.quantecon.org/py/index.html) - Lecture series by Thomas J. Sargent and John Stachurski using Python computational tools.
 * [Top 100 Economics Blogs](https://www.intelligenteconomist.com/top-economics-blogs-2016/) - Links to popular economics blogs, with brief descriptions.
+* [Coding for Economists](https://aeturrell.github.io/coding-for-economists) - Resources for coding in Python geared towards economists.
 
 
 ## License
